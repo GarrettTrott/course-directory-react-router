@@ -1,4 +1,4 @@
-import React from 'react';
+import React from 'react'
 
 const Course = (props) => (
   <li className="course media group">
@@ -8,6 +8,6 @@ const Course = (props) => (
       <p>{props.desc}</p>
     </div>
   </li>
-);
+)
 
-export default Course;
+export default Course
